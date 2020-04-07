@@ -1,0 +1,337 @@
+
+body{
+  color: #40514E;
+  margin: 10px;
+  text-align: center;
+  font-family:sans-serif,monospace;
+}
+
+.header {
+  background-color:#26d0c9 ;
+  height: 90px;
+  margin-bottom: 30px;
+}
+
+.header-logo {
+  float: left;
+  font-size: 36px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+
+.header-list li {
+  float: right;
+  padding: 33px 30px 39px 30px;
+  cursor:pointer;
+
+}
+.header-list li:hover {
+  background-color: #AFEEEE;
+  transition-delay: all 0.5s;
+}
+.teddy{
+  width: 10%;
+  padding-left: 50px;
+  padding-right:20px;
+  padding-bottom: 0px;
+  padding-top: 2px;
+  height: 45px;
+}
+.project{
+
+  padding-left: 5px;
+  padding-right:22px;
+  padding-bottom: 0px;
+  padding-top: 2px;
+  height: 50px;
+
+}
+
+
+.img{
+
+  width: 1170px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+.top-container{
+  margin-left: 100px;
+  margin-right: 100px;
+  padding: 150px 0 150px 0;
+  background-image: url(https://inteng-storage.s3.amazonaws.com/img/iea/nR6bV9jp6o/sizes/learntocodebundle_resize_md.jpg);
+  background-size:cover;
+  color: white;
+  text-align:justify;
+  letter-spacing:
+}
+.top-container h1 {
+  opacity: 0.7;
+  font-size: 45px;
+  letter-spacing: 9px;
+  padding-top: 1px;
+}
+
+.middle-container{
+background-color: #11cdd4;
+margin-top: 20px;
+margin-bottom: 10px;
+margin-left: 100px;
+margin-right: 100px;
+
+  }
+
+  .profile
+  {
+    border-radius:50%;
+    border-width: thin;
+    background-color: #f7f7f7;
+  }
+  .middle-container h2{
+    color:black;
+  }
+  .middle-container h3{
+    color:black;
+  }
+  .middle-container p{
+    color:black;
+  }
+  .profile p{
+    padding-bottom: 10px;
+  }
+  .girl{
+    width: 200px;
+    margin-top: 20px;
+
+    border-radius: 70%;
+  }
+  .Skills{
+    padding-top: 20px;
+    background-color: #f7f7f7;
+  }
+
+  .skill-row{
+    width: 50%;
+    margin: 70px auto 10px auto;
+    text-align: left;
+    line-height: 2;
+    padding-bottom: 10px;
+  }
+
+  .program{
+    width:27%;
+    float: left;
+    margin-right: 30px;
+    border-radius: 50%;
+  }
+
+
+  .html{
+    width: 27%;
+    float: right;
+    margin-left: 40px;
+    height: 175px;
+    border-radius: 50%;
+  }
+  hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 10%;
+  }
+
+
+
+
+
+
+  .css{
+    width: 27%;
+    float: left;
+  margin-right: 30px;
+    height: 175px;
+    border-radius: 50%;
+
+  }
+  .javascript{
+    width: 27%;
+    float: right;
+    margin-left: 30px;
+    height: 175px;
+    border-radius: 50%;
+    margin-top:10px;
+  }
+
+
+
+h1
+{
+  margin:0 auto 0 auto;
+  font-family:cursive;
+  font-size: 90px;
+
+  margin-left: 5%;
+  margin-bottom: 5%;
+}
+
+h5{
+  margin:0 auto 0 auto;
+  font-family: cursive;
+  font-size: 30px;
+
+  margin-left: 4%;
+
+  margin-bottom: 10%;
+}
+
+
+.bottom-container{
+  background-color: #F0F8FF;
+  padding-bottom: 30px;
+  padding-top: 30px;
+}
+.myButton {
+	box-shadow: 0px 1px 1px 0px #f0f7fa;
+	background:linear-gradient(to bottom, #11cdd4 5%, #019ad2 100%);
+	background-color:#11cdd4;
+	border-radius:12px;
+	border:1px solid #057fd0;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:19px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px -1px 0px #5b6178;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #019ad2 5%, #11cdd4 100%);
+	background-color:#019ad2;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+a{
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  background-color: #D3D3D3;
+}
+.contact-me{
+  margin: 10px 0px 10px;
+}
+.footer-link{
+  color: blue;
+}
+.btn{
+  color: black;
+}
+.html{
+
+  margin-top: 10px;
+}
+.bottom-moun{
+  margin-bottom: 10px;
+  width: 160px;
+}
+li {
+  list-style: none;
+}
+
+
+
+
+
+
+
+
+
+
+.guess{
+  padding-top: 10px;
+  text-align: center;
+  line-height: 1;
+  font-size: 60px;
+
+
+}
+
+
+.reset{
+  padding-bottom: 10px;
+  padding-top: 20px;
+}
+.button{
+  padding-bottom: 10px;
+  padding-top: 20px;
+}
+
+
+h2{
+  color: black;
+}
+h3{
+  color: black ;
+}
+p{
+  color: black;
+}
+
+
+
+
+
+
+
+
+.colourButton{
+    background-color: rgb(255,0,0);
+    width: 50px;
+    height: 50px;
+    border: none;
+    border-radius: 50%;
+    box-shadow: none;
+    margin: 10px;
+}
+
+#buttonWrapper{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 0 auto;
+}
+
+h1{
+    text-align: center;
+}
+
+#colourValue{
+    margin: 0 auto;
+    text-align: center;
+}
+
+#answer{
+    margin: 0 auto;
+    text-align: center;
+}
+
+#reset{
+    margin: 0 auto;
+    text-align: center;
+}
+
+#reset-button{
+    padding: 10px;
+    background: none;
+    border: 1px solid #000;
+    margin: 10px;
+}
